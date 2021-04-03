@@ -1,0 +1,23 @@
+{
+  "name": "gradproj",
+  "version": "1.0.0",
+  "description": "Graduation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "decryptor007",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "big.js": "^6.0.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
